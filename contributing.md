@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/jenny-mod-github-minecraft)
+[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/jenny-mod-github-minecraft)
 
 </div>
 
@@ -78,7 +78,7 @@ The **Jenny Mod GitHub Edition** represents the pinnacle of community-driven dev
 
 <div align="center">
 
-[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/jenny-mod-github-minecraft)
+[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/jenny-mod-github-minecraft)
 
 </div>
 
@@ -100,7 +100,7 @@ The **Jenny Mod GitHub Edition** represents the pinnacle of community-driven dev
 
 <div align="center">
 
-[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/jenny-mod-github-minecraft)
+[![Download GitHub Edition](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/jenny-mod-github-minecraft)
 
 **Version GitHub Edition** — *The Apex of Open-Source Companionship.*
 
